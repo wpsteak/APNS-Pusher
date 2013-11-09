@@ -3,7 +3,6 @@ A simple debug application for apple push notification service (APNS).
 
 ![Screenshot](https://raw.github.com/wpsteak/APNS-Pusher/master/iOS%20APNS%20Pusher/ios%20pusher.png "iOS Screenshot")
 
-[Download the latest version](https://github.com/blommegard/APNS-Pusher/releases "Download") 
 
 ## Features
 * Send push notifications to APNS (Apple Push Notification Service) very easy (no configuration needed at all)
